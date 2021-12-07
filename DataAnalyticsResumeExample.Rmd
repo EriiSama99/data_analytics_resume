@@ -1,0 +1,125 @@
+---
+title: "YUZE WU"
+author: YUZE WU
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # Thanks to Eric R. Scott for this tip! 
+    self_contained: false
+---
+
+Aside
+================================================================================
+
+
+![Data](data_icon.png){width=30%}
+<!-- ![Data](`r here::here("data_icon.png")`) -->
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i>ywu25@tufts.edu
+- <i class="fa fa-github"></i> [github.com/EriiSama99/](https://github.com/EriiSama99/)
+- <i class="fa fa-phone"></i> +1 857-891-4836
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Programming Languages: **R, Python**
+
+- Databases: **MySQL,HQL,PSQL**
+
+- Others: **Stata,Matlab,Minitab**
+
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).-->
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+YUZE WU {#title}
+--------------------------------------------------------------------------------
+
+### Data Analytics student seeking Summer 2022 internship
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Tufts University
+
+M.S. Candidate in Data Analytics
+
+Medford, MA
+
+Sep 2021--Current
+
+
+### Bucknell University
+
+B.S. in Applied Mathematical Sciences; Minoring in Economics
+
+Lewisburg, PA
+
+Aug 2017--Jan 2021
+
+
+
+
+
+Work Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Data Analyst Intern
+
+Webull Financial
+
+Changsha, CHINA
+
+Mar 2021--Jun 2021
+
+Worked in a team of 4 data analysts for optimizing and migrating the database of Webull Financial
+
+<!--::: concise-->
+- Optimized SQL statements that reduced the searching time of users' access logs from 15 minutes to 3 minutes.
+- Improved the data warehouse of Webull community and collected relational data that show the relationship between users' access logs and their followings, improving the correlation and accuracy of the community content recommendation algorism.
+<!--:::-->
+
+Worked in a team of 7 for event-based tracking implementation in Webull Community
+
+<!--::: concise-->
+- Responsible for user data analysis and event tracking of the new version of Webull community. The daily active users in both Webull APP and community keep a constant increment since March 2021.
+<!--:::-->
+
+
+### Data Analyst Intern
+
+South China Sea Institute of Oceanology, Chinese Academic of Sciences
+
+Guangzhou, CHINA
+
+May 2018 -- Aug 2018
+
+Worked alone for developing image rendering program via Python
+
+<!--::: concise-->
+- Proposed ecological modeling about the contents and transfer of heavy metal in the marine food web.
+- Completed a graph analysis module via Python for an image rendering program.
+- Analyzed & created the relation diagram of heavy metal contents in different marine species, and the relationship between heavy metal bioaccumulation and the concentration of heavy metal Cadmium.
+<!--:::-->
+
+
+
+
